@@ -21,3 +21,11 @@
     width: center;
   }
 }
+
+
+@media (max-width: 100px) {
+/* For a screen < 540px, this CSS will be read */
+  .container {
+    width: center;
+  }
+}
